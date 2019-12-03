@@ -48,5 +48,5 @@ with open("budget_data.csv") as in_file:
     print(str_increase)
     print(str_decrease)
      
-f.close
+f.close()
   
