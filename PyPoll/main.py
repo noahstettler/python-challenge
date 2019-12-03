@@ -9,11 +9,13 @@ with open("election_data.csv") as in_file:
     data = list(csv_reader)
     
     print("Election Results")
+    f.write("Election Results" + '\n')
 
     # Number of Votes Cast
     num_votes = len(data)    
     str_votes = "Number of Votes: " + str(num_votes)
     print(str_votes)
+    f.write(str_votes + '\n')
 
     # Number of Votes per Candiate
     candiates = []
@@ -59,10 +61,14 @@ with open("election_data.csv") as in_file:
     str_Li = "Li: " + str(Li_percent) + "%, " + str(Li_votes) + " Votes"
     str_OTooley = "O'Tooley: " + str(OTooley_percent) + "%, " + str(OTooley_votes) + " Votes"
     print(str_Khan)
+    f.write(str_Khan + '\n')
     print(str_Correy)
+    f.write(str_Correy + '\n')
     print(str_Li)
+    f.write(str_Li + '\n')
     print(str_OTooley)
+    f.write(str_OTooley + '\n')
     print("Winner:" + winner_name)
-
+    f.write("Winner:" + winner_name)
 
 f.close()
