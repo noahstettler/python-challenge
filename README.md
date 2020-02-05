@@ -1,7 +1,7 @@
-## python-challenge
+# python-challenge
 
 
-# PyBank
+## PyBank
 * The total number of months included in the dataset
 * The net total amount of "Profit/Losses" over the entire period
 * The average of the changes in "Profit/Losses" over the entire period
@@ -10,7 +10,7 @@
 
 ![Bank_Results](PyBank/Bank.txt)
 
-# PyPoll
+## PyPoll
 * The total number of votes cast
 * A complete list of candidates who received votes
 * The percentage of votes each candidate won
