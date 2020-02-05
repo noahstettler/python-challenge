@@ -17,4 +17,4 @@
 * The total number of votes each candidate won
 * The winner of the election based on popular vote.
 
-![Poll_Results](PyPoll/Poll.txt)
+![Poll_Results](PyPoll/Election.txt)
