@@ -8,4 +8,4 @@
 * The greatest increase in profits (date and amount) over the entire period
 * The greatest decrease in losses (date and amount) over the entire period
 
-![Bank_Results](PyBank/bank.txt)
+![Bank_Results](PyBank/Bank.txt)
