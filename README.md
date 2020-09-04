@@ -26,12 +26,12 @@ Windows, OS X, Linux:
 
 ## Usage example
 Original Data files:
-![Bank_Data](PyBank/budget_data.csv)
-![Poll_Data](PyPoll/election_data.csv)
+*![Bank Data](PyBank/budget_data.csv)
+*![Poll Data](PyPoll/election_data.csv)
 
 Analysis Output:
-![Bank_Results](PyBank/Bank.txt)
-![Poll_Results](PyPoll/Election.txt)
+*![Bank Results](PyBank/Bank.txt)
+*![Poll Results](PyPoll/Election.txt)
 
 These Python scripts can be used as a template for organizing and analyzing other data files.  
 
@@ -42,7 +42,7 @@ These Python scripts can be used as a template for organizing and analyzing othe
 
 ## Meta
 
-Noah Stettler – noahstettler@gmail.com.com
+Noah Stettler – noahstettler@gmail.com
 
 [github link](https://github.com/noahstettler)
 
